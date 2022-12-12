@@ -39,7 +39,7 @@ Testing framework used for running automation tests in https://nextbasecrm.com/.
     <img src="images/logo.png" alt="Logo" width=80 height=80>
   </a>
 
-  <h3 align="center">CYDEO PROJECT</h3>
+  <h3 align="center">Earth Quake Project with Java Script</h3>
 
   <p align="center">
     <br />
