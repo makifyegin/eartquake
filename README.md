@@ -35,17 +35,17 @@ Testing framework used for running automation tests in https://nextbasecrm.com/.
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/makifyegin/nextBase0/">
-    <img src="images/logo.png" alt="Logo" width=80 height=80>
+  <a href="https://github.com/makifyegin/eartquake/">
+    <img src="images/screenshot.png" alt="Logo">
   </a>
 
   <h3 align="center">Earth Quake Project with Java Script</h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/makifyegin/nextBase0/issues">Report Bug</a>
+    <a href="https://github.com/makifyegin/eartquake/issues">Report Bug</a>
     ·
-    <a href="https://github.com/makifyegin/nextBase0/issues">Requmakifyeginest Feature</a>
+    <a href="https://github.com/makifyegin/eartquake/issues">Requmakifyeginest Feature</a>
   </p>
 </div>
 
@@ -110,7 +110,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 ## Contact
 
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/makifyegin/nextBase0)
+Project Link: [https://github.com/your_username/repo_name](https://github.com/makifyegin/eartquake)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -136,16 +136,16 @@ Use this space to list resources you find helpful and would like to give credit 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/makifyegin/nextBase0.svg?style=for-the-badge
-[contributors-url]: https://github.com/makifyegin/nextBase0/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/makifyegin/nextBase0.svg?style=for-the-badge
-[forks-url]: https://github.com/makifyegin/nextBase0/network/members
-[stars-shield]: https://img.shields.io/github/stars/makifyegin/nextBase0.svg?style=for-the-badge
-[stars-url]: https://github.com/makifyegin/nextBase0/stargazers
-[issues-shield]: https://img.shields.io/github/issues/makifyegin/nextBase0.svg?style=for-the-badge
-[issues-url]: https://github.com/makifyegin/nextBase0/issues
-[license-shield]: https://img.shields.io/github/license/makifyegin/nextBase0.svg?style=for-the-badge
-[license-url]: https://github.com/makifyegin/nextBase0/blob/master/LICENSE.md
+[contributors-shield]: https://img.shields.io/github/contributors/makifyegin/eartquake.svg?style=for-the-badge
+[contributors-url]: https://github.com/makifyegin/eartquake/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/makifyegin/eartquake.svg?style=for-the-badge
+[forks-url]: https://github.com/makifyegin/eartquake/network/members
+[stars-shield]: https://img.shields.io/github/stars/makifyegin/eartquake.svg?style=for-the-badge
+[stars-url]: https://github.com/makifyegin/eartquake/stargazers
+[issues-shield]: https://img.shields.io/github/issues/makifyegin/eartquake.svg?style=for-the-badge
+[issues-url]: https://github.com/makifyegin/eartquake/issues
+[license-shield]: https://img.shields.io/github/license/makifyegin/eartquake.svg?style=for-the-badge
+[license-url]: https://github.com/makifyegin/eartquake/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/makifyegin
 [product-screenshot]: images/screenshot.png
