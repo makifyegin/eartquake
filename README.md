@@ -1,6 +1,7 @@
+Visualizing Data: Mapping Earthquakes with p5 library with using java script. This is only educational purposes to learn java script and try to do project instead of visualizing map with java8 eclipse project with UnfoldingMaps.
 
 
-Testing framework used for running automation tests in https://nextbasecrm.com/.
+
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
