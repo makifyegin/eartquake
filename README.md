@@ -104,33 +104,17 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 [Next.js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[Next-url]: https://nextjs.org/makifyegin
+[Next-url]: https://p5js.org/
 
 
 [React.js]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[React-url]: https://reactjs.org/
+[React-url]: https://en.wikipedia.org/wiki/HTML
 [Vue.js]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
-[Vue-url]: https://vuejs.org/
-
-
-
+[Vue-url]: https://en.wikipedia.org/wiki/css
 [Angular.io]: https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF
-
-[Angular-url]: https://angular.io/
-
-
+[Angular-url]: https://p5js.org/
 [Svelte.dev]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-[Svelte-url]: https://svelte.dev/
-
-
-[Laravel.com]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
-[Bootstrap-url]: https://getbootstrap.com
-
-
-[JQuery.com]: https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white
-[JQuery-url]: https://jquery.com
+[Svelte-url]: https://code.visualstudio.com/
 
 
 
@@ -144,9 +128,6 @@ This section should list any major frameworks/libraries used to selenium my proj
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
